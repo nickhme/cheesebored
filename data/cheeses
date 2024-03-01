@@ -9,157 +9,157 @@
 		"name": "Bourdin Chèvre",
 		"origin": "France",
 		"image": "https://ga-cheesebored.herokuapp.com/images/bourdin-chevre.jpeg",
-		"tastingNotes": "This style of fresh goat's cheese is a staple in French markets, and for very good reason. It has a soft and moist texture and a gentle but creamy flavor.",
+		"tastingNotes": "This style of fresh goat's cheese is a staple in French markets, and for very good reason. It has a soft and moist texture and a gentle but creamy flavor."
 	},
   {
 		"name": "Caerphilly",
 		"origin": "Wales",
 		"image": "https://ga-cheesebored.herokuapp.com/images/caerphilly.jpeg",
-		"tastingNotes": "This young cheese has an ivory white rind with a pale colored paste and semi-firm texture. It's a moist, crumbly cheese, and its flavor is usually described as salty buttermilk, slightly sour, but buttery.",
+		"tastingNotes": "This young cheese has an ivory white rind with a pale colored paste and semi-firm texture. It's a moist, crumbly cheese, and its flavor is usually described as salty buttermilk, slightly sour, but buttery."
 	},
   {
 		"name": "Comté",
 		"origin": "France",
 		"image": "https://ga-cheesebored.herokuapp.com/images/comte.jpeg",
-		"tastingNotes": "Salty, mild, and lightly fruity with hazelnut and nutmeg flavors.",
+		"tastingNotes": "Salty, mild, and lightly fruity with hazelnut and nutmeg flavors."
 	},
   {
 		"name": "Danish Havarti",
 		"origin": "Denmark",
 		"image": "https://ga-cheesebored.herokuapp.com/images/danish-havarti.jpeg",
-		"tastingNotes": "Havarti has a mild flavor similar to a Monterey Jack. Slightly acidic, the taste is buttery and ranges from somewhat sweet to very sweet.",
+		"tastingNotes": "Havarti has a mild flavor similar to a Monterey Jack. Slightly acidic, the taste is buttery and ranges from somewhat sweet to very sweet."
 	},
   {
 		"_id": "61eaa4db42cbb900180be626",
 		"name": "Double Gloucester",
 		"origin": "England",
 		"image": "https://ga-cheesebored.herokuapp.com/images/double-gloucester.jpeg",
-		"tastingNotes": "This cheese is firm, but with a subtle, closed texture. Note the full, imposing flavor with notes of nuttiness, citrus and hints of onion.",
+		"tastingNotes": "This cheese is firm, but with a subtle, closed texture. Note the full, imposing flavor with notes of nuttiness, citrus and hints of onion."
 	},
   {
 		"name": "Drunken Goat",
 		"origin": "Spain",
 		"image": "https://ga-cheesebored.herokuapp.com/images/drunken-goat.jpeg",
-		"tastingNotes": "The flavor begins mild and oh-so-creamy, but finishes with a wonderful tangy sweetness and a fruity, luscious, grapey aroma.",
+		"tastingNotes": "The flavor begins mild and oh-so-creamy, but finishes with a wonderful tangy sweetness and a fruity, luscious, grapey aroma."
 	},
   {
 		"name": "Edam",
 		"origin": "Netherlands",
 		"image": "https://ga-cheesebored.herokuapp.com/images/edam.jpeg",
-		"tastingNotes": "Aged Edam is mild, slightly salty and nutty.",
+		"tastingNotes": "Aged Edam is mild, slightly salty and nutty."
 	},
   {
 		"name": "Emmentaler Classic",
 		"origin": "Switzerland",
 		"image": "https://ga-cheesebored.herokuapp.com/images/emmentaler-classic.jpeg",
-		"tastingNotes": "Authentic Swiss cheese is never harsh or bitter, but should present a degree of acidity on the finish.",
+		"tastingNotes": "Authentic Swiss cheese is never harsh or bitter, but should present a degree of acidity on the finish."
 	},
   {
 		"name": "Feta",
 		"origin": "Greece",
 		"image": "https://ga-cheesebored.herokuapp.com/images/feta.jpeg",
-		"tastingNotes": "Greece's most famous traditional cheese, feta is an important part of the Greek diet and is used daily in salads, pastries, and a simple (and simply delicious) fried-cheese appetizer called \"saganaki\". The fact that it's made primarily from pure ewe's milk (often with some goat's milk) and ripened and stored in brine gives feta a salty, milky, slightly acidic taste.",
+		"tastingNotes": "Greece's most famous traditional cheese, feta is an important part of the Greek diet and is used daily in salads, pastries, and a simple (and simply delicious) fried-cheese appetizer called \"saganaki\". The fact that it's made primarily from pure ewe's milk (often with some goat's milk) and ripened and stored in brine gives feta a salty, milky, slightly acidic taste."
 	},
   {
 		"name": "Gorgonzola",
 		"origin": "Italy",
 		"image": "https://ga-cheesebored.herokuapp.com/images/gorgonzola.jpeg",
-		"tastingNotes": "Gorgonzola is traditionally a rich creamy cheese, but the blue-green ripples add a sharp spicy flavor that provides an excellent contrast to its richness. The taste ranges from mild to sharp, depending on age.",
+		"tastingNotes": "Gorgonzola is traditionally a rich creamy cheese, but the blue-green ripples add a sharp spicy flavor that provides an excellent contrast to its richness. The taste ranges from mild to sharp, depending on age."
 	},
   {
 		"name": "Halloumi",
 		"origin": "Cyprus",
 		"image": "https://ga-cheesebored.herokuapp.com/images/halloumi.jpeg",
-		"tastingNotes": "Halloumi has a very appealing flavor that's unlike any other cheese: mellow, but not in the least boring, mildly feta-like, notably tangy, and never too strong.",
+		"tastingNotes": "Halloumi has a very appealing flavor that's unlike any other cheese: mellow, but not in the least boring, mildly feta-like, notably tangy, and never too strong."
 	},
   {
 		"name": "Jarlsberg",
 		"origin": "Norway",
 		"image": "https://ga-cheesebored.herokuapp.com/images/jarlsberg.jpeg",
-		"tastingNotes": "A mild cheese, reminiscent of Swiss, Jarlsberg has large irregular holes and a distinct nutty flavor. Its semi-firm yellow interior has a texture that is buttery rich with a mild and slightly sweet flavor.",
+		"tastingNotes": "A mild cheese, reminiscent of Swiss, Jarlsberg has large irregular holes and a distinct nutty flavor. Its semi-firm yellow interior has a texture that is buttery rich with a mild and slightly sweet flavor."
 	},
   {
 		"name": "Lancashire",
 		"origin": "England",
 		"image": "https://ga-cheesebored.herokuapp.com/images/lancashire.jpeg",
-		"tastingNotes": "Lancashire's combination of a delicate texture and rich, creamy flavor places it in a distinct category of its own. Lancashire, like most British cheeses, is the perfect complement to a good beer or ale.",
+		"tastingNotes": "Lancashire's combination of a delicate texture and rich, creamy flavor places it in a distinct category of its own. Lancashire, like most British cheeses, is the perfect complement to a good beer or ale."
 	},
   {
 		"name": "Mahón",
 		"origin": "Spain",
 		"image": "https://ga-cheesebored.herokuapp.com/images/mahon.jpeg",
-		"tastingNotes": "A unique cheese with a sweet and fruity aroma and a rich, bold flavor, Mahón is not for those who prefer bland cheeses.",
+		"tastingNotes": "A unique cheese with a sweet and fruity aroma and a rich, bold flavor, Mahón is not for those who prefer bland cheeses."
 	},
   {
 		"name": "Manchego",
 		"origin": "Netherlands",
 		"image": "https://ga-cheesebored.herokuapp.com/images/manchego.jpeg",
-		"tastingNotes": "Manchego has a distinctive flavor and an equally distinctive look. It can be recognized by a unique zigzag or cross hatch pattern on its black-gray or buff-colored rind which is created by the rippled surface of the press used to make it. Don’t eat the rind—it’s inedible— but inside you’ll discover an ivory-colored interior with several small holes that’s a real treat.",
+		"tastingNotes": "Manchego has a distinctive flavor and an equally distinctive look. It can be recognized by a unique zigzag or cross hatch pattern on its black-gray or buff-colored rind which is created by the rippled surface of the press used to make it. Don’t eat the rind—it’s inedible— but inside you’ll discover an ivory-colored interior with several small holes that’s a real treat."
 	},
   {
 		"name": "Mirabo Walnut Brie",
 		"origin": "Germay",
 		"image": "https://ga-cheesebored.herokuapp.com/images/mirabo-walnut-brie.jpeg",
-		"tastingNotes": "Made in the fertile land of Bavaria, this brie style cheese with walnuts is delicate and ripened to a soft consistency. Its unique shape and presentation really set it apart on a cheese board, and its delicate flavor is sure to please.",
+		"tastingNotes": "Made in the fertile land of Bavaria, this brie style cheese with walnuts is delicate and ripened to a soft consistency. Its unique shape and presentation really set it apart on a cheese board, and its delicate flavor is sure to please."
 	},
   {
 		"name": "Pecorino Toscano",
 		"origin": "Italy",
 		"image": "https://ga-cheesebored.herokuapp.com/images/pecorino-toscano.jpeg",
-		"tastingNotes": "Although it's usually eaten as a table cheese, try it shaved on top of fresh beans, summer salads, or lightly sautéed greens. Use it instead of Parmigiano on your next bowl of pasta. Its flavor is dense and nutty with a wonderful rustic finish.",
+		"tastingNotes": "Although it's usually eaten as a table cheese, try it shaved on top of fresh beans, summer salads, or lightly sautéed greens. Use it instead of Parmigiano on your next bowl of pasta. Its flavor is dense and nutty with a wonderful rustic finish."
 	},
   {
 		"name": "Point Reyes Original Blue",
 		"origin": "USA",
 		"image": "https://ga-cheesebored.herokuapp.com/images/point-reyes-original-blue.jpeg",
-		"tastingNotes": "Even if you’re not a fan of blue cheeses, Point Reyes Original Blue’s sweet, buttery and fresh milk flavor will sure win you over.",
+		"tastingNotes": "Even if you’re not a fan of blue cheeses, Point Reyes Original Blue’s sweet, buttery and fresh milk flavor will sure win you over."
 	},
   {
 		"name": "Port Salut",
 		"origin": "France",
 		"image": "https://ga-cheesebored.herokuapp.com/images/port-salut.jpeg",
-		"tastingNotes": "Port Salut is a semi-soft natural cheese that is most recognized by its orange rind. Don’t be put off by the smell—which can be strong because it’s a washed rind cheese. It will still have a relatively mild flavor—savory and slightly sweet. The smell will increase the longer the cheese is kept but, again, the smell doesn’t affect its flavor.",
+		"tastingNotes": "Port Salut is a semi-soft natural cheese that is most recognized by its orange rind. Don’t be put off by the smell—which can be strong because it’s a washed rind cheese. It will still have a relatively mild flavor—savory and slightly sweet. The smell will increase the longer the cheese is kept but, again, the smell doesn’t affect its flavor."
 	},
   {
 		"name": "Roaring 40s Blue",
 		"origin": "Australia",
 		"image": "https://ga-cheesebored.herokuapp.com/images/roaring-40s-blue.jpeg",
-		"tastingNotes": "Allow the cheese to fully come to room temperature and enjoy its creamy texture with a fresh baguette, red grapes, figs and/or walnuts.",
+		"tastingNotes": "Allow the cheese to fully come to room temperature and enjoy its creamy texture with a fresh baguette, red grapes, figs and/or walnuts."
 	},
   {
 		"name": "Roquefort",
 		"origin": "France",
 		"image": "https://ga-cheesebored.herokuapp.com/images/roquefort.jpeg",
-		"tastingNotes": "Roquefort has a tingly pungent taste, a distinct bouquet, and a flavor that combines the sweet burnt-caramel taste of sheep's milk with the sharp, metallic tang of the blue mold.",
+		"tastingNotes": "Roquefort has a tingly pungent taste, a distinct bouquet, and a flavor that combines the sweet burnt-caramel taste of sheep's milk with the sharp, metallic tang of the blue mold."
 	},
   {
 		"name": "Salemville Armish Blue",
 		"origin": "USA",
 		"image": "https://ga-cheesebored.herokuapp.com/images/salemville-amish-blue.jpeg",
-		"tastingNotes": "This cheese has a rich, earthy flavor, well balanced and flavorful. Crumble on salad or pasta tossed with garlic and olive oil, stir into hot mashed potatoes or transform a vinaigrette into delicious blue cheese salad dressing by adding Amish Blue to it.",
+		"tastingNotes": "This cheese has a rich, earthy flavor, well balanced and flavorful. Crumble on salad or pasta tossed with garlic and olive oil, stir into hot mashed potatoes or transform a vinaigrette into delicious blue cheese salad dressing by adding Amish Blue to it."
 	},
   {
 		"name": "Smoked Gouda",
 		"origin": "Netherlands",
 		"image": "https://ga-cheesebored.herokuapp.com/images/smoked-gouda.jpeg",
-		"tastingNotes": "Smoked Gouda is a bit nuttier tasting than the regular Gouda. Containing 45% butterfat, it’s buttery, creamy and smooth with sweet and salty notes.",
+		"tastingNotes": "Smoked Gouda is a bit nuttier tasting than the regular Gouda. Containing 45% butterfat, it’s buttery, creamy and smooth with sweet and salty notes."
 	},
   {
 		"name": "Stilton",
 		"origin": "England",
 		"image": "https://ga-cheesebored.herokuapp.com/images/stilton.jpeg",
-		"tastingNotes": "Milder than Roquefort or Gorgonzola, Stilton has a rich and mellow flavor with a pungent aftertaste. The finest Stilton is creamy with a subtle, yeasty sweetness and a salty, nutty finish.",
+		"tastingNotes": "Milder than Roquefort or Gorgonzola, Stilton has a rich and mellow flavor with a pungent aftertaste. The finest Stilton is creamy with a subtle, yeasty sweetness and a salty, nutty finish."
 	},
   {
 		"name": "Vella Dry Monterey Jack",
 		"origin": "USA",
 		"image": "https://ga-cheesebored.herokuapp.com/images/vella-dry-monterey-jack.jpeg",
-		"tastingNotes": "Grated onto salads, soups or pastas, Dry Jack is a winner! It's wonderful eaten on its own for snacks or sandwiches and it is delicious after dinner with fresh fruit and a handful of toasted walnuts.",
+		"tastingNotes": "Grated onto salads, soups or pastas, Dry Jack is a winner! It's wonderful eaten on its own for snacks or sandwiches and it is delicious after dinner with fresh fruit and a handful of toasted walnuts."
 	},
   {
 		"name": "Wensleydale",
 		"origin": "England",
 		"image": "https://ga-cheesebored.herokuapp.com/images/wensleydale.jpeg",
-		"tastingNotes": "Descriptions of White Wensleydale are somewhat paradoxical. It is firm but not dry or hard; creamy with a surface that is crumbly; slightly sweet but also tart in flavor.",
+		"tastingNotes": "Descriptions of White Wensleydale are somewhat paradoxical. It is firm but not dry or hard; creamy with a surface that is crumbly; slightly sweet but also tart in flavor."
 	}
 ]
